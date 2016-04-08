@@ -1,5 +1,5 @@
 //
-//  NSString+M3ParsingAdditions.h
+//  NSString+ParsingAdditions.h
 //  KeyChain
 //
 //  Created by Abel Duarte on 3/16/16.
@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface NSString (M3ParsingAdditions)
+@interface NSString (ParsingAdditions)
 
 - (NSString *)firstCharacter;
 - (NSString *)lastCharacter;

@@ -1,5 +1,5 @@
 //
-//  NSFileManager+ADPathUtilities.h
+//  NSFileManager+NSSearchPathAdditions.h
 //  Utilities
 //
 //  Created by Abel Duarte on 4/8/16.
@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface NSFileManager (ADDirectoryPath)
+@interface NSFileManager (NSSearchPathAdditions)
 
 - (NSString *)documentsPath;
 - (NSString *)pathForDirectory:(NSSearchPathDirectory)directory;

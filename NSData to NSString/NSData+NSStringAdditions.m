@@ -6,9 +6,9 @@
 //  Copyright © 2015 Abel Duarte. All rights reserved.
 //
 
-#import "NSData+NSString.h"
+#import "NSData+NSStringAdditions.h"
 
-@implementation NSData(NSStringAdditions)
+@implementation NSData (NSStringAdditions)
 
 - (NSString *)stringWithEncoding:(NSStringEncoding)encoding
 {

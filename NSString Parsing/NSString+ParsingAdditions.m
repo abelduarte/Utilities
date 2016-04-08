@@ -6,9 +6,9 @@
 //  Copyright © 2016 Abel Duarte. All rights reserved.
 //
 
-#import "NSString+M3ParsingAdditions.h"
+#import "NSString+ParsingAdditions.h"
 
-@implementation NSString (M3ParsingAdditions)
+@implementation NSString (ParsingAdditions)
 
 - (NSString *)firstCharacter
 {

@@ -6,9 +6,9 @@
 //  Copyright © 2016 Abel Duarte. All rights reserved.
 //
 
-#import "NSFileManager+ADDirectoryPath.h"
+#import "NSFileManager+NSSearchPathAdditions.h"
 
-@implementation NSFileManager (ADDirectoryPath)
+@implementation NSFileManager (NSSearchPathAdditions)
 
 - (NSString *)documentsPath
 {
