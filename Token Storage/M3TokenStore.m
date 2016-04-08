@@ -3,7 +3,7 @@
 //  ezcard
 //
 //  Created by Abel Duarte on 3/15/16.
-//  Copyright © 2016 iMobile3 LLC. All rights reserved.
+//  Copyright © 2016 Abel Duarte. All rights reserved.
 //
 
 #import "M3TokenStore.h"
